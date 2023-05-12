@@ -1,4 +1,4 @@
-# PhD-code
+# PhD Code
 
 Functions written and used during the course of my PhD research in astrophysics at the University of Chicago. The code provided here is intended for educational purposes.
 
